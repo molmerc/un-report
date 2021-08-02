@@ -1,1 +1,2 @@
 just testing nano and git w/ github
+each point represents a country
